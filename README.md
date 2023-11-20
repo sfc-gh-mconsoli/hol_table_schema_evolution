@@ -1,6 +1,7 @@
 # HOL Table Schema Evolution
 
 This hands-on lab is designed for beginners and will guide you through the seamless evolution of a table schema using Snowflake.
+
 To start, copy-paste the `hol_schema_table_evolution.sql` in a Snowsight Worksheet. The script will guide you over the steps described below.
 
 ## Step 1: Setup
