@@ -76,7 +76,7 @@ SELECT * FROM BANK_TRANSACTION_STAGING;
 
 /*
 ----------------------------------------------------------------------------------
-STEP 3
+STEP 4
 - Enable schema evolution on the table BANK_TRANSACTION_STAGING
 - Check table definition using DESCRIBE
 - Load records in bank_transaction_2.csv using COPY command (2 more columns added)
