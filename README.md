@@ -24,9 +24,8 @@ Create the necessary objects:
 
 ## Step 4: Schema Evolution
 - Enable schema evolution on the existing table, BANK_TRANSACTION_STAGING.
-- Check the updated table definition using the `DESCRIBE` command.
 - Load records from bank_transaction_2.csv using the `COPY` command, which introduces two additional columns (risk_score and payment_node).
 - Re-run the `DESCRIBE` command to view the modified table structure.
-- Confirm that the new records are successfully loaded.
+- Check the new loaded records.
 
 Follow these steps to witness a smooth schema evolution in action!
