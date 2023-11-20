@@ -2,10 +2,10 @@
 
 This hands-on lab is designed for beginners and will guide you through the seamless evolution of a table schema using Snowflake.
 
-To start, copy-paste the `hol_schema_table_evolution.sql` in a Snowsight Worksheet. The script will guide you over the steps described below.
+Let's kick things off by copy-pasting the `hol_schema_table_evolution.sql` in a Snowsight Worksheet. The script will guide you over the steps described below.
 
 ## Step 1: Setup
-Let's kick things off by creating the necessary components:
+Create the necessary objects:
 - **Database:** HOL_DB
 - **Schema:** HOL_SCHEMA_EVOLUTION
 - **Stage:** BANK_TRANSACTION_FILE_STAGE
